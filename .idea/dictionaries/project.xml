@@ -3,6 +3,7 @@
     <words>
       <w>dsconv</w>
       <w>miou</w>
+      <w>tversky</w>
     </words>
   </dictionary>
 </component>

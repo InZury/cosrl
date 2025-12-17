@@ -1,0 +1,8 @@
+# Requirement Package
+
+torch
+torchvision
+wandb
+tqdm
+matplotlib
+transformers
